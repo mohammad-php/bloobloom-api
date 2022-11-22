@@ -6,6 +6,7 @@
 #### - Web Server (NGINX, APACHE)
 
 ## Run Project:
+#### - There is Postman collection (BlooBloom API.postman_collection.json), please use it to call API's
 #### - Change DB credentials in (.env) file
 #### - composer install
 #### - php -S localhost:8080 -t public
